@@ -1,6 +1,10 @@
 # whatsappclone
 
-A new Flutter application.
+WhatsApp Clone Design. I'm still working on this clone nd will update it very soon INSHALLAH
+
+# Pic
+
+<img src="https://user-images.githubusercontent.com/73787635/132558983-8642b078-cb36-4bdf-8cbb-324cf9ce5b02.jpeg" height = 480, width = 290/>
 
 ## Getting Started
 
